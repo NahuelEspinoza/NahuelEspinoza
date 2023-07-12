@@ -18,7 +18,7 @@
 
  💬 Ask me about **Node.js, MongoDB, PHP, MySQL**
 
- 📫 Reach out to me: **arjuncvinod7@gmail.com**
+ 📫 Reach out to me: **nahuelespinoza.ar@gmail.com**
 
  ✍ You can find my resume [here](https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing)
 
@@ -83,7 +83,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-## Here are some 🦜Parrots😂:
+## Here are some 🦜Parrots 😂 :
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -129,6 +129,6 @@
 
 
 
-Credit: [arjuncvinod](https://github.com/nahuelespinoza)
+Credit: [NahuelEspinoza](https://github.com/nahuelespinoza)
 
 Last Edited on: 12/07/2023
