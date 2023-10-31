@@ -16,7 +16,7 @@
 
  🌱 I’m currently learning **React.js**
 
- 💬 Ask me about **Node.js, MongoDB, PHP, MySQL**
+ 💬 Ask me about **Windows, Linux, Android, batch script, cmd, pentesting, cybersecurity**
 
  📫 Reach out to me: **nahuelespinoza.ar@gmail.com**
 
